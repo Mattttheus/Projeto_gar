@@ -108,7 +108,7 @@ $aluno->setEmail("email");
  
  echo $aluno->getEmail("");
 
- $aluno->SetEndereco01("endercco1");
+ $aluno->SetEndereco01("enderco1");
 
  echo $aluno->getEndereco01("");
  
